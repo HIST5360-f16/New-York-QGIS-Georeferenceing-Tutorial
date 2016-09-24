@@ -1,6 +1,6 @@
 
 # New York in QGIS: Geo-referencing Historical Maps [originally used Monday, April 4, 2016]
-
+### By:       Modifications by Amber Jolly
 ### This tutorial is designed so you can practice the skills you learned in the [Programming Historian QGIS Tutorial Geo-referencing in QGIS](http://programminghistorian.org/lessons/georeferencing-qgis "Links to Programming Historian")
 
 1.  [Note for future work: Each time you install a new version of QGIS, be sure to activate the Georeferencing toolbar in that installation]
